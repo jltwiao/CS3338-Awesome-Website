@@ -1,0 +1,51 @@
+commit c62dff819517b2b84487da119623d97ec1e62b35
+Author: jltwiao <187699808+jltwiao@users.noreply.github.com>
+Date:   Fri Sep 4 11:09:38 2026 -0700
+
+    removed conflig headings
+
+commit 532835f371829b38edb1d2f6635a336f2e181f86
+Merge: fcf573a c55a13b
+Author: jltwiao <187699808+jltwiao@users.noreply.github.com>
+Date:   Fri Sep 4 11:08:35 2026 -0700
+
+    Merged index fix adding favorite animal, food and movie
+
+commit c55a13b6c76ff5fac49250396405afea55629aac
+Author: jltwiao <187699808+jltwiao@users.noreply.github.com>
+Date:   Fri Sep 4 11:04:58 2026 -0700
+
+    add favorite movie
+
+commit fcf573a4ef0e70581a0e093dcaab27788ec41a66
+Author: jltwiao <187699808+jltwiao@users.noreply.github.com>
+Date:   Fri Sep 4 11:02:26 2026 -0700
+
+    added favorite animal and add on index
+
+commit 822bd10a3d3bc783be6e6347e08c655b6d0f08d2
+Author: jltwiao <187699808+jltwiao@users.noreply.github.com>
+Date:   Fri Sep 4 10:58:31 2026 -0700
+
+    added project description
+
+commit 0ddf93116cbce7963e739cc27a669ff4e927a2c7
+Merge: 1d2bfc0 a8c6a19
+Author: Joshua <187699808+jltwiao@users.noreply.github.com>
+Date:   Fri Sep 4 10:56:13 2026 -0700
+
+    Merge pull request #1 from jltwiao/info-fill
+    
+    added name and hobby
+
+commit a8c6a19af81909a53a6125d73e40799b3171fe7c
+Author: jltwiao <187699808+jltwiao@users.noreply.github.com>
+Date:   Fri Sep 4 10:52:55 2026 -0700
+
+    added name and hobby
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
